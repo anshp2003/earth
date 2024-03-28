@@ -36,3 +36,122 @@
     transform: rotate(360deg);
   }
 }
+
+.bgimg11{
+
+  background-image: url("../public/img/Banner.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.bgimg1{
+
+  background-image: url("../public/img/Banner.jpg");
+  background-size: cover;
+  
+  background-position: center;
+}
+.bgimg2{
+
+  background-image: url("../public/img/Call-to-action.jpg");
+  background-position:center;
+    background-size: cover;
+
+}
+.bgimg3{
+
+  background-image: url("../public/img/About-banner.jpg");
+  background-position:center;
+    background-size: cover;
+
+}
+.bgimg4{
+
+  background-image: url("../public/img/Contact-Banner.jpg");
+  background-size: cover;
+  
+  background-position: center;
+}
+
+.box{
+  background-color:#ffffff; box-shadow:0px 0px 30px 0px whitesmoke ;
+}
+
+.gr{
+  color: #2c541d;
+}
+.h220{
+
+  height: 220px;
+}
+
+.h200{
+
+  height: 200px;
+}
+
+.bdl{
+
+  
+  border-left: 1px solid silver;
+}
+.bdr{
+
+  
+  border-bottom: 0px solid silver;
+
+  border-left: 0px solid silver;
+
+}
+
+@media(max-width:500px) {
+
+.h220{
+  height: 150px;
+}
+.h200{
+
+  height:150px;
+}
+
+
+.bdl{
+
+  
+  border-bottom: 1px solid silver;
+
+  border-left: 0px solid silver;
+
+}
+.bdr{
+
+  
+  border-bottom: 1px solid silver;
+
+  border-left: 0px solid silver;
+
+}
+
+}
+
+
+.cwh{
+  color: white;
+}
+
+
+.bgg{
+
+  background-color:green;
+}
+
+
+
+
+
+
+.f70{
+  font-size: 70px;
+}
+
