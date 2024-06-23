@@ -54,7 +54,7 @@ export default function Contact() {
 
                                         <textarea cols="34.5" rows="5" className='mt-4 col-md-12 col-12'
                                             placeholder="Message"></textarea>
-                                        <button className='bg-danger mt-4 rounded-5 col-12 col-md-4 border-0 cwh'>SEND
+                                        <button className='bg-success mt-4 rounded-5 col-12 col-md-4 border-0 cwh p-md-2'>SEND
                                             NOW</button>
 
                                     </form>

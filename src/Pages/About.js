@@ -75,64 +75,65 @@ export default function About() {
 <br/>
 
 <div className=' container'>
-<div className=' container p-md-5'>
+        <div className=' container p-md-5'>
 
 
 
-  <div className=' row '>
-    <div className=' col-md-4 text-center bdr'>
-    <div className=' row '>
-      <div className=' col-md-2'>
-   <button className='cwh bg-success rounded-5 border-0  col-md-12'><i className="fa fa-lock fs-3    " aria-hidden="true"></i></button> 
+          <div className=' row '>
+            <div className=' col-md-4 text-center bdr'>
+              <div className=' row ps-md-5'>
+                <div className=' col-md-2'>
+                  <button className='cwh bg-success rounded-5 border-0  col-md-12 mt-md-2'><i className="fa fa-lock fs-3 " aria-hidden="true"></i></button>
 
+                </div>
+                <div className=' col-md-10 text-md-start '>
+                  <span className=' '>SECURE PAYMENT
+                  </span>
+                  <p className=''>All our payments our SSL secured
+
+                  </p>
+                </div>
+              </div>
+
+
+            </div>
+            <div className=' col-md-4 bdl text-center'>
+
+              <div className=' row ps-md-5'>
+                <div className=' col-md-2'>
+                  <button className='cwh bg-success rounded-5 border-0  col-md-12 mt-2'><i className="fa fa-lock fs-2    " aria-hidden="true"></i></button>
+
+                </div>
+                <div className=' col-md-10 text-md-start '>
+                  <span className=' '>SECURE PAYMENT
+                  </span>
+                  <p className=''>All our payments our SSL secured
+
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className=' col-md-4 bdl text-center'>
+
+              <div className=' row ps-md-5'>
+                <div className=' col-md-2'>
+                  <button className='cwh bg-success rounded-5 border-0  col-md-12 mt-2'>
+                    <i className="fa fa-lock fs-3    " aria-hidden="true"></i></button>
+
+                </div>
+                <div className=' col-md-10 text-md-start '>
+                  <span className=' '>SECURE PAYMENT
+                  </span>
+                  <p className=''>All our payments our SSL secured
+
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
-      <div className=' col-md-10 text-md-start '>
-      <span className=' '>SECURE PAYMENT
-</span>
-<p className=''>All our payments our SSL secured
-
-</p>
-      </div>
-    </div>
-  
-   
-    </div>
-    <div className=' col-md-4 bdl text-center'>
-
-    <div className=' row ps-md-5'>
-      <div className=' col-md-2'>
-   <button className='cwh bg-success rounded-5 border-0  col-md-12 mt-3'><i className="fa fa-lock fs-3    " aria-hidden="true"></i></button> 
-
-      </div>
-      <div className=' col-md-10 text-md-start '>
-      <span className=' '>SECURE PAYMENT
-</span>
-<p className=''>All our payments our SSL secured
-
-</p>
-      </div>
-    </div>
-    </div>
-    <div className=' col-md-4 bdl text-center'>
-
-    <div className=' row ps-md-5'>
-      <div className=' col-md-2'>
-   <button className='cwh bg-success rounded-5 border-0  col-md-12 mt-3'><i className="fa fa-lock fs-3    " aria-hidden="true"></i></button> 
-
-      </div>
-      <div className=' col-md-10 text-md-start '>
-      <span className=' '>SECURE PAYMENT
-</span>
-<p className=''>All our payments our SSL secured
-
-</p>
-      </div>
-    </div>
-    </div>
-    </div>
-    </div>
-</div>
-<br/>
+     <br/>
 <hr/>   
 
 <div className=' container '>
